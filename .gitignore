@@ -1,0 +1,8 @@
+venv
+.vscode
+__pycache__
+jobs.db
+.env
+test/*.csv
+test/*.png
+results
